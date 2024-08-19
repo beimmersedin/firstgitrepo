@@ -1,0 +1,2 @@
+vi test file 1
+vi test file 2
