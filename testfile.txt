@@ -4,3 +4,4 @@ test file 2
 add test file 3
 
 bug fix
+bug fix
